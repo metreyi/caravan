@@ -1,0 +1,4 @@
+user: dadhichriddhima@gmail.com
+password:qwerty90
+admin:admin@gmail.com
+pass:zxcvbnm90

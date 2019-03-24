@@ -1,0 +1,19 @@
+.cl1
+{
+	font-family: almendra;
+	font-style: oblique;
+	font-size: 20px;
+	color: black;
+	background-color:white;
+}
+.container-fluid{
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.cl2
+{
+	margin-right: 10px;
+	margin-left: 10px;
+}
